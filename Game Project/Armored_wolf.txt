@@ -1,0 +1,66 @@
+Armored-Wolf
+150
+20
+4
+1
+15
+15
+2
+25
+ lunges at you and bites!
+ hardens their fur.
+ circles you and gathers power.
+4
+1
+Headbutt
+ rams into you!
+end me
+35
+0
+0
+0
+none
+1
+1
+Armor UP
+ reinforces their armor. +15% damage reduction (3 turns)
+end me aaa
+0
+0
+1
+0
+ARMOR ARMOR
+AD
+.15
+3
+aaa
+2
+1
+Armor break
+ crushes your armor. -10% damage reduction (3 turns)
+end me
+0
+0
+0
+1
+armor break
+AD
+.10
+3
+get some better armor dude
+3
+1
+YOU DEAD M8
+ howls! +20% damage to allies. (3 turns)
+wahahaha
+0
+1
+1
+0
+awdwdasdwasd
+AB
+.20
+3
+hahahahahahahaha
+4
+wolf

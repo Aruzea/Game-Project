@@ -1,0 +1,98 @@
+Wolf
+100
+5
+4
+1
+15
+25
+2
+15
+ lunges at you and bites!
+ puts up their guard.
+ circles you and gathers power.
+4
+1
+Headbutt
+ rams into you!
+end me
+25
+0
+0
+0
+none
+1
+1
+Growl
+ growls at you! You lose -20% damage. (3 turns)
+end me aaa
+0
+0
+0
+1
+feared
+AD
+.20
+3
+oh nyo the doggos are scary -20% attack
+2
+1
+Self motivation
+ prepares it's next attack. +50% to next attack.
+end me
+0
+0
+1
+0
+feared
+AD
+.50
+1
+HIT EM WHERE IT HURTS
+3
+1
+YOU DEAD M8
+ howls! +20% damage to allies. (3 turns)
+wahahaha
+0
+1
+1
+0
+awdwdasdwasd
+AB
+.20
+3
+hahahahahahahaha
+4
+wolf
+
+
+
+
+Armored Wolf
+150
+20
+4
+1
+15
+30
+2
+25
+ lunges at you and bites!
+ hardens their fur.
+ circles you and gathers power.
+wolf
+
+Format:
+Name
+Health
+Armor
+Max Crystals
+Crytal regen
+Dodge chance
+Crit chance
+Crit multiplier
+Attack Value
+Attack message
+Defend message
+Charge message
+enemy type

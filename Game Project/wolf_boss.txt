@@ -1,0 +1,58 @@
+Magic-Wolf
+300
+15
+4
+1
+20
+30
+2
+35
+ ferociously bites!
+ creates a shield.
+ gathers mana.
+4
+1
+Magic Bolt
+ shoots a lightning spear!
+end me
+45
+0
+0
+0
+none
+1
+1
+Fire breath
+ conjures flames beneath your feet!
+end me aaa
+60
+0
+0
+0
+none
+2
+1
+gravity field
+ creates a gravity field! -30% damage (3 turns)
+end me
+0
+0
+0
+1
+oppressed
+AD
+.10
+3
+you heavy -30% damage (3 turns)
+3
+1
+STARS OF RUIIIN
+ shoots a barrage of magic!
+wahahaha
+80
+0
+0
+0
+none
+4
+boss_wolf

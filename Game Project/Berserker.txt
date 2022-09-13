@@ -1,0 +1,69 @@
+Berserker
+100
+20
+5
+1
+10
+20
+2
+30
+ swings their axes!
+ crosses their axes to guard.
+ channels his rage into power.
+4
+1
+Whirlwind
+ violently spins with their axes!
+Berserker spins with their axes, hitting everyone in a typhoon of fury. (30 area damage)
+30
+1
+0
+0
+none
+1
+1
+Power Strike
+ slams their axes onto the enemy!
+Berserker vicously strikes an enemy with all their might. (50 single damage)
+50
+0
+0
+0
+none
+2
+1
+War Cry
+ lets out a roar!
+Berserker roars, empowering his attack by 20%. (3 turns) 
+0
+0
+1
+0
+focused
+AB
+.20
+3
+You are focused on ending their lives. +20% damage.
+3
+1
+Earthshatter
+ cracks the earth with a stomp!
+Berserker stomps the earth, creating a shockwave that devastates enemies (80 area damage)
+80
+1
+0
+0
+none
+5
+
+
+bool unlocked;
+	string name; 
+	string message;
+	string description;
+	int damage;
+	bool isAOE;
+	bool isBuff;
+	bool isDebuff;
+	Effect effect;
+	int cost;
